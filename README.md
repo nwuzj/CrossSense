@@ -1,6 +1,12 @@
 ![Alt text](documentation/logo.png?raw=true "CrossSense")
 
 # CrossSense
+
+Jie Zhang, Zhanyong Tang, Meng Li, Dingyi Fang, Petteri Nurmi, Zheng Wang
+
+[Northwest University, China](http://www.nwu.edu.cn), [Lancaster University, UK](http://www.scc.lancs.ac.uk), [University of Helsinki, Finland](https://www.helsinki.fi/en)
+
+
 **CrossSense** is an open source framework for scaling up WiFi sensing to new environments and larger problems. It uses machine learning techniques to address the problem. To reduce the cost of sensing model training data collection, CrossSense employs machine learning to train, *off-line*, a roaming model to generate, from one set of measurements, synthetic training samples for each target environment. 
 To scale up to a larger problem size, CrossSense adopts a mixture-of-experts approach where multiple specialized sensing models, or *experts*, are used to capture the mapping from diverse WiFi inputs to the desired outputs.
 

@@ -2,7 +2,7 @@
 
 # CrossSense
 
-Jie Zhang, Zhanyong Tang, Meng Li, Dingyi Fang, Petteri Nurmi, Zheng Wang
+Contributors: Jie Zhang, Zhanyong Tang, Meng Li, Dingyi Fang, Petteri Nurmi, [Zheng Wang](www.lancaster.ac.uk/staff/wangz3/)
 
 [Northwest University, China](http://www.nwu.edu.cn), [Lancaster University, UK](http://www.scc.lancs.ac.uk), [University of Helsinki, Finland](https://www.helsinki.fi/en)
 
